@@ -1,4 +1,4 @@
-![image](https://github.com/AlexSkyBlue/Automatizacion_BigData/assets/101909211/8d9cbfac-cdfb-45d0-9b53-1aa2ddd21e20)![image](https://github.com/AlexSkyBlue/Automatizacion_BigData/assets/101909211/fa031fb6-7612-4606-a18f-3fbd6935c0b0)![image](https://github.com/AlexSkyBlue/Automatizacion_BigData/assets/101909211/15399b42-7637-47ae-b5d0-4f9c5a14f5f5)# Proyecto Automátizado de Big Data
+# Proyecto Automátizado de Big Data
 ---
 ## Preparación Ambiente de Ejecución
 

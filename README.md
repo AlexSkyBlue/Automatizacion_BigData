@@ -68,8 +68,8 @@
 ### Crear carpetas necesarias para el proyecto
 
 - mkdir txt_consolidated
-- zips_api
-- zips_api_extracted
+- mkdir zips_api
+- mkdir zips_api_extracted
 
 <p align="center">
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719751062/vjctop1ampzioojaejry.png" alt="Crear carpetas necesarias para el proyecto" width="80%">

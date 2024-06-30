@@ -65,6 +65,26 @@
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719746317/anv2sd221qjjnbbesxnq.png" alt="Abrir proyecto en Visual Studio Code" width="80%">
 </p>
 
+### Crear nuevo Ambiente Virtual
+
+- python -m venv env
+
+<p align="center">
+    <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719748107/xzgamaxeasqwjykm5dz2.png" alt="Crear nuevo Ambiente Virtual" width="80%">
+</p>
+
+### Activar Ambiente Virtual creado
+
+- .\env\Scripts\Activate.ps1
+
+<p align="center">
+    <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719748106/vedcx6yrzkkrmrpzjf8w.png" alt="Activar Ambiente Virtual" width="80%">
+</p>
+
 ### Instalar las dependencias necesarias para el proyecto en la terminal
 
 - pip install -r requirements.txt
+
+<p align="center">
+    <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719748107/zidyanz96kb8jet0wjmx.png" alt="Instalar librerías mediante Terminal" width="80%">
+</p>

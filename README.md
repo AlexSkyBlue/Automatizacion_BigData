@@ -19,5 +19,12 @@
     </a>
 </p>
 
-## Clonar proyecto Automatizacion_BigData
-git clone 
+## Preparación de Proyecto
+### Abrir disco D: con el explorador de archivos
+<img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719744784/paik0futkwewei8fk9ji.png" alt="Explorador de archivos" width="100%">
+
+### Clonar proyecto Automatizacion_BigData
+git clone https://github.com/AlexSkyBlue/Automatizacion_BigData.git
+
+### Instalar las dependencias necesarias para el proyecto
+pip install -r requirements.txt

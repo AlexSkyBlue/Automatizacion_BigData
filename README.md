@@ -43,7 +43,7 @@
 
 ### Clonar proyecto Automatizacion_BigData
 
--- git clone https://github.com/AlexSkyBlue/Automatizacion_BigData.git
+- git clone https://github.com/AlexSkyBlue/Automatizacion_BigData.git
 
 <p align="center">
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719745625/lmwykgx5t2adzclppfgh.png" alt="Clonar proyecto" width="80%">
@@ -51,7 +51,7 @@
 
 ### Posicionarnos en carpeta proyecto Automatizacion_BigData
 
--- cd ./Automatizacion_BigData/
+- cd ./Automatizacion_BigData/
 
 <p align="center">
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719746317/tu2wx8sekvytbv69gxdf.png" alt="Posicionarnos en carpeta creada con la clonación" width="80%">
@@ -59,10 +59,10 @@
 
 ### Abrir Visual Studio Code
 
--- code .
+- code .
 
 <p align="center">
-    <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719745625/lmwykgx5t2adzclppfgh.png" alt="Abrir proyecto en Visual Studio Code" width="80%">
+    <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719746317/anv2sd221qjjnbbesxnq.png" alt="Abrir proyecto en Visual Studio Code" width="80%">
 </p>
 
 ### Instalar las dependencias necesarias para el proyecto

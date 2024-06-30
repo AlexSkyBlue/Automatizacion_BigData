@@ -1,4 +1,4 @@
-# Proyecto Automátizado de Big Data
+![image](https://github.com/AlexSkyBlue/Automatizacion_BigData/assets/101909211/8d9cbfac-cdfb-45d0-9b53-1aa2ddd21e20)![image](https://github.com/AlexSkyBlue/Automatizacion_BigData/assets/101909211/fa031fb6-7612-4606-a18f-3fbd6935c0b0)![image](https://github.com/AlexSkyBlue/Automatizacion_BigData/assets/101909211/15399b42-7637-47ae-b5d0-4f9c5a14f5f5)# Proyecto Automátizado de Big Data
 ---
 ## Preparación Ambiente de Ejecución
 
@@ -20,9 +20,12 @@
 </p>
 
 ## Preparación de Proyecto
-### Abrir disco D: con el explorador de archivos
+### Abrir el explorador de archivos
 <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719744784/paik0futkwewei8fk9ji.png" alt="Explorador de archivos" width="100%">
-<img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719744949/wtfnlczmjuldb41hin8w.png" alt="Explorador de archivos" width="100%">
+### Abrir disco D: con el explorador de archivos
+<img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719744949/wtfnlczmjuldb41hin8w.png" alt="Seleccionar disco D:" width="100%">
+### Abrir terminal en el explorador de archivos
+<img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719745238/i5i2bswalsvpscjnhpah.png" alt="Abrir Terminal" width="100%">
 
 ### Clonar proyecto Automatizacion_BigData
 git clone https://github.com/AlexSkyBlue/Automatizacion_BigData.git

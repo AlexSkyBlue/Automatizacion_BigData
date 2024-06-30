@@ -166,8 +166,8 @@ def main():
     # Directorio donde se guardarán los archivos TXT consolidados
     consolidated_dir = 'txt_consolidated'
     # Definir nombres del bucket y del dataset
-    bucket_name = "bucket_transporte_9"
-    dataset_id = "dataset_transporte_9"
+    bucket_name = "bucket_transporte_10"
+    dataset_id = "dataset_transporte_10"
 
     # Crear el bucket y el dataset
     create_bucket(bucket_name)

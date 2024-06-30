@@ -39,6 +39,8 @@
 
 git clone https://github.com/AlexSkyBlue/Automatizacion_BigData.git
 
+<img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719745625/lmwykgx5t2adzclppfgh.png" alt="Clonar proyecto" width="100%">
+
 ### Instalar las dependencias necesarias para el proyecto
 
 pip install -r requirements.txt

@@ -9,7 +9,7 @@ from google.oauth2 import service_account  # Biblioteca para manejar autenticaci
 
 # Configuración de la autenticación
 # Ruta al archivo JSON con las credenciales de la cuenta de servicio
-key_path = "D:\\Proyecto_BigData\\qwiklabs-gcp-00-d2425aaaa127-ee7693a29e45.json"
+key_path = "D:\\Automatizacion_BigData\\qwiklabs-gcp-00-d2425aaaa127-ee7693a29e45.json"
 
 # Establece una variable de entorno para que las bibliotecas de Google Cloud utilicen estas credenciales automáticamente
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = key_path

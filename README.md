@@ -77,7 +77,7 @@
 
 - .\env\Scripts\Activate.ps1
 
-<p align="center">
+<p align="center">https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719749127/gzdquekplvwcutpuu5wu.png
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719748106/vedcx6yrzkkrmrpzjf8w.png" alt="Activar Ambiente Virtual" width="80%">
 </p>
 
@@ -87,4 +87,13 @@
 
 <p align="center">
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719748107/zidyanz96kb8jet0wjmx.png" alt="Instalar librerías mediante Terminal" width="80%">
+</p>
+
+
+### Ahora puedes continuar con el informe
+
+<p align="center">
+    <a href="https://docs.google.com/document/d/1PtkmJBV0T6uEJz_14_jMxa9_XhIJq6W51vArdvWgdYE/edit?pli=1">
+        <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719749127/gzdquekplvwcutpuu5wu.png" alt="Visual Studio Code" width="100">
+    </a>
 </p>

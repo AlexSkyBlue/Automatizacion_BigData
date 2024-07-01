@@ -87,7 +87,7 @@
 
 - .\env\Scripts\Activate.ps1
 
-<p align="center">https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719749127/gzdquekplvwcutpuu5wu.png
+<p align="center">
     <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719748106/vedcx6yrzkkrmrpzjf8w.png" alt="Activar Ambiente Virtual" width="80%">
 </p>
 

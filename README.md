@@ -103,7 +103,7 @@
 ### Ahora puedes continuar con el informe
 
 <p align="center">
-    <a href="https://docs.google.com/document/d/1PtkmJBV0T6uEJz_14_jMxa9_XhIJq6W51vArdvWgdYE/edit?pli=1">
+    <a href="https://docs.google.com/document/d/1PtkmJBV0T6uEJz_14_jMxa9_XhIJq6W51vArdvWgdYE/edit?usp=sharing">
         <img src="https://res.cloudinary.com/dmyzxqw3k/image/upload/v1719749127/gzdquekplvwcutpuu5wu.png" alt="Visual Studio Code" width="100">
     </a>
 </p>
